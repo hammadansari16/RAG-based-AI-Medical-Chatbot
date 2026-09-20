@@ -1,1 +1,0 @@
-here the chunks of text are embedded in the vector database
